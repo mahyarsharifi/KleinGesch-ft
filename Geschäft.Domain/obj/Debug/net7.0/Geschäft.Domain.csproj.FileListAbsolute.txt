@@ -1,0 +1,15 @@
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.csproj.AssemblyReference.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.AssemblyInfoInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.AssemblyInfo.cs
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\bin\Debug\net7.0\Geschäft.Domain.deps.json
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\bin\Debug\net7.0\Geschäft.Domain.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\bin\Debug\net7.0\Geschäft.Domain.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\bin\Debug\net7.0\Geschäft.Application.Contracts.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\bin\Debug\net7.0\Geschäft.Application.Contracts.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.csproj.CopyComplete
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\refint\Geschäft.Domain.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\Geschäft.Domain.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Domain\obj\Debug\net7.0\ref\Geschäft.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.csproj.AssemblyReference.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.AssemblyInfoInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.AssemblyInfo.cs
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Application.deps.json
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Application.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Application.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Application.Contracts.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Domain.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Domain.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\bin\Debug\net7.0\Geschäft.Application.Contracts.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.csproj.CopyComplete
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\refint\Geschäft.Application.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\Geschäft.Application.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application\obj\Debug\net7.0\ref\Geschäft.Application.dll

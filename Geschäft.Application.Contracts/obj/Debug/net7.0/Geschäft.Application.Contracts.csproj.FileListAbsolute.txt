@@ -1,0 +1,12 @@
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\bin\Debug\net7.0\Geschäft.Application.Contracts.deps.json
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\bin\Debug\net7.0\Geschäft.Application.Contracts.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\bin\Debug\net7.0\Geschäft.Application.Contracts.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.AssemblyInfo.cs
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\refint\Geschäft.Application.Contracts.dll
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\Geschäft.Application.Contracts.pdb
+C:\Users\Mahyar\Desktop\Projects\KleinGeschäft\Geschäft.Application.Contracts\obj\Debug\net7.0\ref\Geschäft.Application.Contracts.dll

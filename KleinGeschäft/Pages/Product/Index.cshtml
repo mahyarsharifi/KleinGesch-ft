@@ -1,0 +1,45 @@
+﻿@page
+@model KleinGeschäft.Pages.Product.IndexModel
+@{
+}
+
+<div class="text-center">
+    <h1 class="display-4 fw-bolder text-center border border-danger p-3 mb-2 bg-danger text-white">Produkt Liste</h1>
+    <p><a asp-page="./Create" class="btn btn-success">Erstelle Neu</a></p>
+</div>
+
+<table class="table table-bordered table-responsive table-hover table-dark">
+    <thead>
+        <tr>
+            <td>#</td>
+            <td>Name</td>
+            <td>Kostet</td>
+            <td>Erstellungs Datum</td>
+            <td>Produkt Gruppe</td>
+            <td>Operation</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.UnitPrice</td>
+                <td>@item.CreationDate</td>
+                <td>@item.Category</td>
+                <td>
+                    <a class="btn btn-info" asp-page="./Edit" asp-route-id="@item.Id">Bearbeiten</a>
+                    @if (item.IsRemoved == false)
+                    {
+                        <a class="btn btn-danger" asp-page="./Index" asp-page-handler="Remove" asp-route-id="@item.Id">InAktiv</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-success" asp-page="./Index" asp-page-handler="Restore" asp-route-id="@item.Id">Aktiv</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

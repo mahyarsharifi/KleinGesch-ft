@@ -1,0 +1,26 @@
+﻿@page
+@model KleinGeschäft.Pages.Product.CreateModel
+@{
+}
+
+<form method="post">
+    <div class="row row-cols-auto">
+        <div class="col-md-6">
+            <label for="name">Name</label>
+            <input class="form-control" name="name" id="name" type="text" />
+        </div>
+        <div class="col-md-6">
+            <label for="unitPrice">Kostet</label>
+            <input class="form-control" name="unitPrice" id="unitPrice" type="text" />
+        </div>
+        <div class="col-md-6">
+            <label for="name">Gruppe</label>
+            <select asp-items="@Model.ProductCategories" name="categoryId" id="categoryId" class="form-control">
+                <option value="0">Wählen Sie die Produktgruppe aus ...</option>
+            </select>
+        </div>
+        <div class="col-md-12 m-md-auto">
+            <button type="submit" class="btn btn-success">Erstellen</button>
+        </div>
+    </div>
+</form>

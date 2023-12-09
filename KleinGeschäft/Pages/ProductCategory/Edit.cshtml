@@ -1,0 +1,17 @@
+﻿@page
+@model KleinGeschäft.Pages.ProductCategory.EditModel
+@{
+}
+
+<form method="post">
+    <div class="row row-cols-auto">
+        <div class="col-md-6">
+            <label asp-for="@Model.Command.Name">Name</label>
+            <input class="form-control" asp-for="@Model.Command.Name" type="text" />
+        </div>
+        <input type="hidden" asp-for="@Model.Command.Id" value="@Model.Command.Id" />
+        <div class="col-md-12 m-md-auto">
+            <button type="submit" class="btn btn-success">Bearbeiten</button>
+        </div>
+    </div>
+</form>
